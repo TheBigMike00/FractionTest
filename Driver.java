@@ -4,7 +4,7 @@ public class Driver
 {
 	public static void main(String[] args)
 	{
-		String s = "hello";
+		String s = "Sir Michael Brocker the First";
 		char c = 'h';
 		
 		System.out.println(s.toUpperCase());
